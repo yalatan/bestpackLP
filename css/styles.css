@@ -67,7 +67,9 @@ footer p {
    /* height: 500px;*/
    /* margin-top: 60px;*/
 }
-
+#slideshow {
+    overflow: hidden;
+}
 .owl-carousel .owl-nav button.owl-prev,
 .owl-carousel .owl-nav button.owl-next {
     position: absolute;
