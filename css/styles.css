@@ -238,7 +238,7 @@ footer p {
     color: white;
     font-size: 50px;
     text-align: left;
-    background-image: url(/assets/UpakMaterialy.png);
+    background-image: url(assets/UpakMaterialy.png);
     background-size: 100%;
     background-repeat: no-repeat;
     height: 500px;
@@ -250,7 +250,7 @@ footer p {
     font-size: 50px;
     color: rgba(65, 107, 87, 1);
     text-align: right;
-    background-image: url(/assets/instrument.png);
+    background-image: url(assets/instrument.png);
     background-size: 100%;
     height: 500px;
     background-repeat: no-repeat;
@@ -262,7 +262,7 @@ footer p {
     font-size: 50px;
     color: white;
     text-align: left;
-    background-image: url(/assets/oboruduvanie.png);
+    background-image: url(assets/oboruduvanie.png);
     background-size: 100%;
     height: 500px;
     background-repeat: no-repeat;
@@ -274,7 +274,7 @@ footer p {
     font-size: 50px;
     color: rgba(65, 107, 87, 1);
     text-align: right;
-    background-image: url(/assets/service.png);
+    background-image: url(assets/service.png);
     background-size: 100%;
     height: 500px;
     background-repeat: no-repeat;
