@@ -238,7 +238,7 @@ footer p {
     color: white;
     font-size: 50px;
     text-align: left;
-    background-image: url(../assets/UpakMaterialy.png);
+    background-image: url("../assets/UpakMaterialy.png");
     background-size: 100%;
     background-repeat: no-repeat;
     height: 500px;
